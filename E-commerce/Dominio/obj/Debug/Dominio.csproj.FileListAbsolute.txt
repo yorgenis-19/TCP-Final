@@ -1,0 +1,30 @@
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Dominio\bin\Debug\Dominio.dll
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Dominio\bin\Debug\Dominio.pdb
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.dll
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\bin\Debug\Dominio.dll
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.dll
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\bin\Debug\Dominio.dll
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.dll
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\bin\Debug\Dominio.dll
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.dll
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Dominio\obj\Debug\Dominio.pdb
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Dominio\bin\Debug\Dominio.dll
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Dominio\bin\Debug\Dominio.pdb
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Dominio\obj\Debug\Dominio.dll
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Dominio\obj\Debug\Dominio.pdb

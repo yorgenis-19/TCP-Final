@@ -1,0 +1,45 @@
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Negocio.dll
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Negocio.pdb
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Dominio.dll
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Dominio.pdb
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.dll
+C:\Users\robie\OneDrive\Escritorio\Programacion III\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Negocio.dll
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Dominio.dll
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.dll
+C:\Users\Nicolas\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Negocio.dll
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Dominio.dll
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.dll
+C:\Users\Nicolas\OneDrive\Documentos\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Negocio.dll
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Dominio.dll
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.csproj.Up2Date
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.dll
+C:\Users\Luka\Documents\GitHub\tp-TCP-equipo-H\Ecommerce\Negocio\obj\Debug\Negocio.pdb
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Negocio\bin\Debug\Negocio.dll
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Negocio\bin\Debug\Negocio.pdb
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Negocio\bin\Debug\Dominio.dll
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Negocio\bin\Debug\Dominio.pdb
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Negocio\obj\Debug\Negocio.dll
+C:\Users\robie\OneDrive\Escritorio\TCP-Final\E-commerce\Negocio\obj\Debug\Negocio.pdb
